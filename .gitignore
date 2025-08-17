@@ -1,0 +1,3 @@
+/target
+# Rust Analyzer config
+.rust-analyzer.json
